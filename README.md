@@ -1,5 +1,5 @@
 # BCG-Data-Science-Analytics-Virtual-Experience-Program
-![image.png]({https://drive.google.com/drive/u/0/folders/1OYwPYL0vSlFiMXgEA3l9Wfd8a39DDr3P})
+![image.png]({https://drive.google.com/file/d/13qs4hYeC6eZAD7g_QrsfJ7Gx8NJsJR3a/view?usp=drive_link})
 
 ## Background
 Your client is PowerCo, a major gas and electricity utility company that supplies to corporate, SME (small and medium enterprise) and residential customers. The power liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose and drive the source of churning SME customers.
