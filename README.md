@@ -1,5 +1,6 @@
 # BCG-Data-Science-Analytics-Virtual-Experience-Program
-![BCG Virtual internship]([https://user-images.githubusercontent.com/76781033/211288052-06feb4e3-8455-4d0a-8dbd-fb9f1add9ff8.png](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_S2zZD9vGSZEa2fm2q_1709968858316_completion_certificate.pdf))
+![BCG Virtual internship](![image](https://github.com/geosimarmata/Data-Scientist-at-BCG-GAMMA/assets/161802894/85214d57-bcde-4e74-8a98-67da65bfa814)
+)
 
 ## Background
 Your client is PowerCo, a major gas and electricity utility company that supplies to corporate, SME (small and medium enterprise) and residential customers. The power liberalization of the energy market in Europe has led to significant customer churn, especially in the SME segment. They have partnered with BCG to help diagnose and drive the source of churning SME customers.
