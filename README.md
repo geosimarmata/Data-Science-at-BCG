@@ -1,4 +1,4 @@
-# BCG-Data-Science-Analytics-Virtual-Experience-Program
+# BCG's Data Science on Forage
 ![image.png](https://github.com/geosimarmata/Data-Scientist-at-BCG-GAMMA/blob/main/BCG%20Gamma.png)
 
 ## Background
